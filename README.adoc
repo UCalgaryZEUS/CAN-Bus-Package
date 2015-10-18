@@ -13,7 +13,7 @@ It walks the user through the steps starting from the inital fork to the final p
 
 . Remote add the upstream repository.
 +
-`git remote add zeus https://github.com/UCalgaryZEUS/CAN-Bus-Package.git`
+`git remote add ZEUS https://github.com/UCalgaryZEUS/CAN-Bus-Package.git`
 
 == Adding Content to Repo
 === Keeping Updated with ZEUS master
